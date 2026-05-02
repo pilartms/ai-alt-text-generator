@@ -1,4 +1,4 @@
-# Alt Text Generator — Exercise
+# Alt text generator (exercise)
 
 A before/after comparison of AI-generated alt text for BBC Visual Journalism graphics, produced as part of the **Advanced Prompt Engineering for Journalists** MOOC (Joe Amditis / Center for Cooperative Media).
 
